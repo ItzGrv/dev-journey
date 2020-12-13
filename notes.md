@@ -32,4 +32,6 @@ select empdept, count(empdept) as employees from Employees GROUP by empdept;
 
 With Clause in Oracle
 
+Objects in Databases
+
 Temporary tables in sql
